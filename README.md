@@ -1,1 +1,3 @@
 # gamess
+
+./run my-input  
